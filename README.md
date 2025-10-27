@@ -6,15 +6,6 @@ The functionality is identical to its FastAPI counterpart from my old github.com
 
 ---
 
-## 📁 Project structure
-fiber-direct-linker/
--main.go
--templates/
---index.html
-uploads/
-
----
-
 ## ⚙️ Requirements
 
 - Go 1.20+

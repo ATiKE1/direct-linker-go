@@ -1,0 +1,5 @@
+uploads/*
+uploads*
+*uploads/
+go.mod
+go.sum
